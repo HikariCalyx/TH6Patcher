@@ -1,0 +1,9 @@
+[package]
+name = "th6patcher"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[build-dependencies]
+winres = "0.1"
