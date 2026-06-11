@@ -13,7 +13,7 @@ Nothing else are modified.
 This patch will only work on unmodified Japanese release. Do not use it on unofficial translation patch (e.g. Chinese patch).
 
 | Required File | Patched Result   |
-------------------------------------
+|---------------|------------------|
 | 東方紅魔郷.exe | th06.exe         |
 | custom.exe    | custom.exe       |
 | 紅魔郷ED.dat   | koumakyouED.dat |
